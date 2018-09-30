@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>第二堂課練習 on last day of september</title>
+    <title>第二堂課練習</title>
     <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
     <link rel="stylesheet" href="style.css">
     
 </head>
 
 <body>
-    <h1>第二堂課練習 on last day of 2018 septempber</h1>
+    <h1>第二堂課練習</h1>
     <ul>
         <li> <a href="http://www.google.com" target="_blank">第1段</a> <a href="http://www.google.com" target="_blank">第2段</a> <a href="http://www.google.com" target="_blank">第3段</a> <a href="http://www.google.com" target="_blank">第4段</a> <a href="http://www.google.com" target="_blank">第5段</a> </li>
     </ul>
@@ -30,7 +30,7 @@
     <h2>第2篇文章</h2>
     <h3>我是小標題</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi facilis perferendis, rerum possimus a facere beatae fuga vitae nesciunt quasi provident dolorum tempora atque suscipit at ea voluptas voluptatem, maiores.</p> <img src="images/beefnoodle1.jpg" alt="照片1遺失" width="300">
-    <a href="http://www.google.com" target="_blank"><img src="images/beefnoodle2.jpg" alt="照片2遺失" width="400"></a>
+    <a href="http://www.google.com" target="_blank"><img src="images/beefnoodle2.jpg" alt="照片2 missing again" width="400"></a>
     <h2 id="article3">第3篇文章</h2>
     <h3>我是小標題</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi facilis perferendis, rerum possimus a facere beatae fuga vitae nesciunt quasi provident dolorum tempora atque suscipit at ea voluptas voluptatem, maiores.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi facilis perferendis, rerum possimus a facere beatae fuga vitae nesciunt quasi provident dolorum tempora atque suscipit at ea voluptas voluptatem, maiores.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi facilis perferendis, rerum possimus a facere beatae fuga vitae nesciunt quasi provident dolorum tempora atque suscipit at ea voluptas voluptatem, maiores.</p> <img src="images/beefnoodle1.jpg" alt="照片1遺失" width="300">
