@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>第二堂課練習 on 9/30</title>
+    <title>第二堂課練習 on last day of september</title>
     <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
     <link rel="stylesheet" href="style.css">
     
