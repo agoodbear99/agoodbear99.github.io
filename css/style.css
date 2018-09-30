@@ -1,0 +1,66 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+* {
+    font-size: 18px;
+    letter-spacing: 2.5px;
+    font-family: 'Noto Sans TC', sans-serif, fantasy;
+}
+
+
+/*header設定*/
+
+h1 {
+    font-size: 2em;
+    color: aquamarine;
+}
+
+p {
+    font-size: 1px;
+    color: blueviolet
+}
+
+h2 {
+    font-size: 1.5em;
+    color: coral;
+}
+
+
+/*nav設定*/
+
+nav ul>li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+nav a:link {
+    color: darkgrey;
+}
+
+nav a:hover {
+    color: purple;
+}
+
+nav a:visited {
+    color: darkblue;
+}
+
+
+/*文章設定*/
+
+.post {
+    background-color: cornflowerblue
+}
+
+.post1 {
+    background-color: yellow;
+    font-size: 3em;
+}
+
+#top {
+    background-color: cadetblue
+}
