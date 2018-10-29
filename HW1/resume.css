@@ -1,0 +1,133 @@
+/*基本設定*/
+
+* {
+    box-sizing: border-box;
+    font-size: 36px;
+    background-color: burlywood;
+}
+
+
+/*header設定*/
+
+header {
+    width: 100%;
+    font-size: 1.2em;
+    border: 1px solid black;
+    text-align: center;
+    height: 150px;
+    padding-top: 50px;
+    background-image: url(../images/TW_sea1.jpg);
+    background-size: cover;
+}
+
+nav {
+    width: 100%;
+}
+
+h1 {
+    width: 70%;
+    color: gray;
+    font-size: 0.5em;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+/*簡歷設定*/
+
+div#tablecontainer {
+    display: table;
+    border-spacing: 10px;
+    border: 1px solid black;
+    width: 90%;
+    background-color: black;
+}
+
+div#tablerow1 {
+    display: table-row;
+    border: 1px solid black;
+    width: 80%;
+}
+
+#photo {
+    display: table-cell;
+    width: 220px;
+    border: 1px solid black;
+}
+
+img {
+    width: 200px;
+    border: 1px solid green;
+}
+
+#sidebar {
+    display: table-cell;
+    width: 350px;
+    border: 1px solid black;
+    vertical-align: bottom;
+}
+
+h2 {
+    font-size: 0.6em;
+    color: black;
+    margin-left: 40px;
+}
+
+#sidebar ul li {
+    font-size: 0.5em;
+}
+
+div#tablerow2 {
+    display: table-row;
+    width: 80%;
+    border: 1px solid black;
+}
+
+h3 {
+    font-size: 0.6em;
+    color: black;
+    margin-left: 40px;
+}
+
+#main {
+    display: table-cell;
+    width: 80%;
+    border: 1px solid black;
+}
+
+#main ul li {
+    list-style-type: disc;
+}
+
+#main ul li a {
+    font-size: 0.5em;
+    line-height: 5px;
+}
+
+
+/*內文設定*/
+
+div#tablerow3 {
+    display: table-row;
+    width: 80%;
+    border: 1px solid blue;
+}
+
+#HW {
+    display: table-cell;
+    widows: 80%;
+    border: 1px solid black;
+}
+
+h4 {
+    font-size: 0.6em;
+    color: black;
+}
+
+#HW ul li {
+    font-size: 0.5em;
+}
+
+#HW ul li a {
+    font-size: 1em;
+}

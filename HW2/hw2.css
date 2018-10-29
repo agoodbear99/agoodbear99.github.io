@@ -1,0 +1,57 @@
+    * {
+        box-sizing: border-box;
+        font-size: 36px;
+        background-color: #d96060;
+    }
+    /*header設定*/
+    
+    header {
+        width: 100%;
+        height: 300px;
+        background-image: url(../images/ProBanner-dinning.jpg);
+        background-repeat: space;
+        margin-bottom: 20px;
+    }
+    
+    h1 {
+        font-size: 0.6em;
+        margin-top: 50px;
+    }
+    /*內容設定*/
+    
+    #content {
+        width: 60%;
+        margin: 100px auto;
+    }
+    
+    .thumbnail {
+        margin: 50px auto;
+    }
+    
+    img {
+        width: 500px;
+    }
+    
+    #content p {
+        font-size: 0.6em;
+    }
+    /*底部連結設定*/
+    
+    #HW {
+        display: table-cell;
+        width: 80%;
+        border: 1px solid black;
+    }
+    
+    h4 {
+        font-size: 0.6em;
+        color: black;
+    }
+    
+    #HW ul li {
+        font-size: 0.5em;
+    }
+    
+    #HW ul li a {
+        font-size: 1em;
+    }
