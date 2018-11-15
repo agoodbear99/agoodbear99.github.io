@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/*照片設定*/
+
+.photo {
+    float: left;
+    opacity: 0.5;
+}
+
+
+/*css phone setting*/
+
+
+/*main*/
+
+.main {
+    height: 470px;
+    width: 235px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: gold;
+    border-radius: 30px;
+    margin-top: 0px;
+    margin-left: 33px;
+}
+
+.view {
+    height: 365px;
+    width: 205px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-top: -430px;
+    margin-left: 49px;
+    background-image: url(images/iphone8_view.jpg);
+    background-repeat: round;
+}
+
+.home {
+    height: 34px;
+    width: 34px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #e5bf60;
+    border-radius: 17px;
+    margin-top: 12px;
+    margin-left: 133px;
+    background-color: aliceblue;
+    opacity: 0.5;
+}
+
+.reciever {
+    height: 6px;
+    width: 44px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+    margin-top: -430px;
+    margin-left: 125px;
+    background-color: black;
+}
+
+.sensor1 {
+    height: 10px;
+    width: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin-top: -10px;
+    margin-left: 95px;
+    background-color: black;
+}
+
+.sensor2 {
+    height: 10px;
+    width: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    margin-top: -20px;
+    margin-left: 143px;
+    background-color: black;
+}
